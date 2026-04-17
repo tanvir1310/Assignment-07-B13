@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "description": "Perfect for individuals just beginning their career journey.",
+    "price": 0.00,
+    "period": "one-time",
+    "tag": "Free",
+    "tagType": "new",
+    "features": [
+      { "text01": "3 basic templates" },
+      { "text02": "Standard PDF export" },
+      { "text03": "Email support" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Professional Monthly",
+    "description": "Unlock advanced tools to stand out in the job market.",
+    "price": 15.00,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      { "text01": "50+ premium templates" },
+      { "text02": "ATS optimization" },
+      { "text03": "AI cover letter generator" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Elite Annual",
+    "description": "Our best value for long-term career management.",
+    "price": 120.00,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      { "text01": "Unlimited templates" },
+      { "text02": "Personal branding website" },
+      { "text03": "LinkedIn profile audit" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Resume Roast",
+    "description": "A brutal but honest review of your CV by industry experts.",
+    "price": 45.00,
+    "period": "one-time",
+    "tag": "Trending",
+    "tagType": "popular",
+    "features": [
+      { "text01": "Video feedback" },
+      { "text02": "Grammar check" },
+      { "text03": "Structural re-design" }
+    ],
+    "icon": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 5,
+    "name": "Team Access",
+    "description": "Collaboration tools for recruitment agencies and HR teams.",
+    "price": 49.00,
+    "period": "monthly",
+    "tag": "Enterprise",
+    "tagType": "new",
+    "features": [
+      { "text01": "Shared asset library" },
+      { "text02": "Multi-user login" },
+      { "text03": "White-label exports" }
+    ],
+    "icon": "data:image/png;base64,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"
+  },
+  {
+    "id": 6,
+    "name": "Interview Prep Pro",
+    "description": "Master your interviews with AI-driven mock sessions.",
+    "price": 29.00,
+    "period": "monthly",
+    "tag": "Highly Rated",
+    "tagType": "best seller",
+    "features": [
+      { "text01": "Unlimited mock interviews" },
+      { "text02": "Real-time speech analysis" },
+      { "text03": "Industry-specific questions" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Student Special",
+    "description": "Discounted access for currently enrolled students.",
+    "price": 50.00,
+    "period": "yearly",
+    "tag": "60% Off",
+    "tagType": "new",
+    "features": [
+      { "text01": "Internship guide" },
+      { "text02": "Academic CV templates" },
+      { "text03": "Verified badge" }
+    ],
+    "icon": "data:image/png;base64,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"
+  },
+  {
+    "id": 8,
+    "name": "Portfolio Builder",
+    "description": "Turn your projects into a stunning visual portfolio.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "Creative",
+    "tagType": "popular",
+    "features": [
+      { "text01": "Image gallery hosting" },
+      { "text02": "Custom domain support" },
+      { "text03": "SEO tools" }
+    ],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I7ARthR47U9r6rQr0j3crdCBwrdO87bLMw&s"
+  },
+  {
+    "id": 9,
+    "name": "Executive Yearly",
+    "description": "Tailored for C-suite and senior leadership roles.",
+    "price": 299.00,
+    "period": "yearly",
+    "tag": "Premium",
+    "tagType": "best seller",
+    "features": [
+      { "text01": "Ghostwriting service" },
+      { "text02": "Executive headshot advice" },
+      { "text03": "Confidential job board" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Career Reset",
+    "description": "Complete guidance for those switching industries.",
+    "price": 89.00,
+    "period": "one-time",
+    "tag": "Pivot",
+    "tagType": "new",
+    "features": [
+      { "text01": "Transferable skills audit" },
+      { "text02": "Industry pivot roadmap" },
+      { "text03": "2 Coaching sessions" }
+    ],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPLlHHMTEj9l7ZZ-H9MoPjKrIN4lC96uT5vQ&s"
+  },
+  {
+    "id": 11,
+    "name": "Networking Masterclass",
+    "description": "Learn to leverage LinkedIn and hidden job markets.",
+    "price": 35.00,
+    "period": "one-time",
+    "tag": "Limited Time",
+    "tagType": "popular",
+    "features": [
+      { "text01": "Connection scripts" },
+      { "text02": "Cold email templates" },
+      { "text03": "Access to alumni group" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?q=80&w=200&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Freelance Blueprint",
+    "description": "Scale your freelance business from zero to 10k.",
+    "price": 15.00,
+    "period": "monthly",
+    "tag": "Side Hustle",
+    "tagType": "new",
+    "features": [
+      { "text01": "Proposal templates" },
+      { "text02": "Pricing calculator" },
+      { "text03": "Upwork optimization" }
+    ],
+    "icon": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=200&auto=format&fit=crop"
+  }
+]
