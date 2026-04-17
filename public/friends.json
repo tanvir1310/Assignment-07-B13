@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "email": "ayesha.r@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 2,
+    "name": "Rahim Khan",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "email": "rahim.k@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "tech"],
+    "bio": "Lead developer and a great mentor from my first office.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 3,
+    "name": "Sofia Patel",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+    "email": "sofia.p@example.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["travel", "neighbor"],
+    "bio": "Expert in exploring local hidden gems and folk dances.",
+    "goal": 20,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 4,
+    "name": "Tariq Hossain",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "email": "tariq.h@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["childhood", "cycling"],
+    "bio": "Grandmaster at heart and a cycling enthusiast.",
+    "goal": 30,
+    "next_due_date": "2026-02-15"
+  },
+  {
+    "id": 5,
+    "name": "Nadia Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "email": "nadia.c@example.com",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": ["music", "hiking"],
+    "bio": "Lead singer in a local band and an avid hiker.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 6,
+    "name": "Imran Ahmed",
+    "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+    "email": "imran.a@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["gym", "coding"],
+    "bio": "Expert in competitive gaming and a fitness coach.",
+    "goal": 30,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 7,
+    "name": "Meherun Nessa",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "email": "meherun@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["poetry", "close friend"],
+    "bio": "Writes soulful poetry while knitting sweaters for friends.",
+    "goal": 7,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 8,
+    "name": "Kamal Bashir",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "email": "kamal.b@example.com",
+    "days_since_contact": 51,
+    "status": "overdue",
+    "tags": ["football", "work"],
+    "bio": "Backend developer by day, football striker by night.",
+    "goal": 30,
+    "next_due_date": "2026-02-28"
+  },
+  {
+    "id": 9,
+    "name": "Priya Sharma",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "email": "priya.s@example.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": ["yoga", "cooking"],
+    "bio": "Yoga instructor with a talent for making masala chai.",
+    "goal": 10,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 10,
+    "name": "Fahim Iqbal",
+    "picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7",
+    "email": "fahim.i@example.com",
+    "days_since_contact": 22,
+    "status": "almost due",
+    "tags": ["reading", "college"],
+    "bio": "An old school bookworm and a swimming trainer.",
+    "goal": 25,
+    "next_due_date": "2026-04-19"
+  }
+]
